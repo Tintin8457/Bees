@@ -58,3 +58,11 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Ignored Files
+Bees/Library/
+Bees/.vs/
+Bees/Logs/
+Bees/Bees.sln/
+Bees/UserSettings/
+Bees/.vsconfig/
+Bees/.Assembly-CSharp.csproj/
